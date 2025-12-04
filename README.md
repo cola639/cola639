@@ -5,5 +5,5 @@
 - 🚀 Currently the maintainer of [qdpz](https://github.com/cola639/uniapp-miniprogram-qdpz) .[xlsx-style-fixedver](https://www.npmjs.com/package/xlsx-style-fixedver) .
 
 <a href="https://liruifengv.com#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,java,spring&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,vue,python&theme=dark" />
 </a>
