@@ -11,30 +11,27 @@
 ## 🌐 _Connect with me:_
 
 <p style="display:flex; gap:10px; align-items:center; margin:0;">
-  <a href="" style="display:inline-flex;">
+  <a href="" style="display:inline-flex; line-height:0;">
     <img
-      height="28"
-      width="110"
+      style="display:block; min-width:110px; height:30px; object-fit:contain;"
       alt="LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=18"
     />
   </a>
 
-  <a href="https://profile.gogogavin.uk/" style="display:inline-flex;">
+  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex; line-height:0;">
     <img
-      height="28"
-      width="110"
-      alt="Portfolio"
-      src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=18"
+      style="display:block; min-width:110px; height:30px; object-fit:contain;"
+      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=18"
     />
   </a>
 
-  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex;">
+  <a href="https://profile.gogogavin.uk/" style="display:inline-flex; line-height:0;">
     <img
-      height="28"
-      width="110"
-      alt="Gmail"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=18"
+      style="display:block; min-width:110px; height:30px; object-fit:contain;"
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=18"
     />
   </a>
 </p>
