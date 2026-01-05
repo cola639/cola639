@@ -11,17 +11,28 @@
 ## 🌐 _Connect with me:_
 
 <p style="display:flex; gap:10px; align-items:center; margin:0;">
-  <a href="YOUR_LINKEDIN_URL" style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:6px; background:#0A66C2; color:#fff; text-decoration:none; font:600 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;">
-    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="" style="width:18px; height:18px; display:block;" />
-    <span>LinkedIn</span>
+  <a href="" style="display:inline-flex; line-height:0;">
+    <img
+      style="display:block; min-width:110px; height:30px; object-fit:contain;"
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=18"
+    />
   </a>
-    <a href="https://profile.gogogavin.uk/" style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:6px; background:#1E90FF; color:#fff; text-decoration:none; font:600 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;">
-    <img src="https://api.iconify.design/simple-icons:vercel.svg?color=white" alt="" style="width:18px; height:18px; display:block;" />
-    <span>Portfolio</span>
+
+   <a href="https://profile.gogogavin.uk/" style="display:inline-flex; line-height:0;">
+    <img
+      style="display:block; min-width:110px; height:30px; object-fit:contain;"
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=18"
+    />
   </a>
-  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:6px; background:#D14836; color:#fff; text-decoration:none; font:600 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;">
-    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" alt="" style="width:18px; height:18px; display:block;" />
-    <span>Gmail</span>
+
+  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex; line-height:0;">
+    <img
+      style="display:block; min-width:110px; height:30px; object-fit:contain;"
+      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=18"
+    />
   </a>
 
 </p>
