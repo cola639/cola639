@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </br>
 
-# <img src='https://citiwebcast.web.app/favicon.ico' width='25px' /> Hello! I am [Gavin...](https://vcma.rf.gd/Portfolio/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
+# <img src='https://citiwebcast.web.app/favicon.ico' width='25px' /> Hello! I am [Gavin...](https://profile.gogogavin.uk/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 - 👨‍💻 I'm a full-stack developer.
 - 🚀 Currently the maintainer of [qdpz](https://github.com/cola639/uniapp-miniprogram-qdpz) .[xlsx-style-fixedver](https://www.npmjs.com/package/xlsx-style-fixedver) .
@@ -10,9 +10,9 @@
 
 ## 🌐 _Connect with me:_
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anuragvishwakarma/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logoColor=white)](https://vishanurag.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xihguan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white)]()
+[![Profile](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logoColor=white)](https://profile.gogogavin.uk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiheg1109@gmail.com)
 
 # 💻 Tech Stack
 
