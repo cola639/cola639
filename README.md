@@ -45,7 +45,7 @@
 
   <tr>
    <img
-         width="410"
+         width="800"
         height="300"
         src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical"
         alt="GitHub Stats"
