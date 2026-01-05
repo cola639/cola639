@@ -10,15 +10,32 @@
 
 ## 🌐 _Connect with me:_
 
-<p>
-  <a href="">
-    <img height="28" width="110" src="https://img.shields.io/badge/LinkedIn-%231572B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p style="display:flex; gap:10px; align-items:center; margin:0;">
+  <a href="" style="display:inline-flex;">
+    <img
+      height="28"
+      width="110"
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-%231572B6?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
-  <a href="https://profile.gogogavin.uk/">
-    <img height="28" width="110" src="https://img.shields.io/badge/Portfolio-%2310f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+  <a href="https://profile.gogogavin.uk/" style="display:inline-flex;">
+    <img
+      height="28"
+      width="110"
+      alt="Portfolio"
+      src="https://img.shields.io/badge/Portfolio-%2310f?style=for-the-badge&logo=google-chrome&logoColor=white"
+    />
   </a>
-  <a href="mailto:xiheg1109@gmail.com">
-    <img height="28" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex;">
+    <img
+      height="28"
+      width="110"
+      alt="Gmail"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
 </p>
 
