@@ -11,7 +11,7 @@
 ## 🌐 _Connect with me:_
 
 <p style="display:flex; gap:10px; align-items:center; margin:0;">
-  <a href="" style="display:inline-flex; line-height:0;">
+  <a href="" style="display:inline-flex; line-height:0; margin-right:8px; ">
     <img
       style="display:block; min-width:110px; height:30px; object-fit:contain;"
       alt="LinkedIn"
@@ -19,7 +19,7 @@
     />
   </a>
 
-  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex; line-height:0;">
+   <a href="" style="display:inline-flex; line-height:0; margin-right:8px; ">
     <img
       style="display:block; min-width:110px; height:30px; object-fit:contain;"
       alt="Gmail"
@@ -27,7 +27,7 @@
     />
   </a>
 
-  <a href="https://profile.gogogavin.uk/" style="display:inline-flex; line-height:0;">
+  <a href="" style="display:inline-flex; line-height:0;  ">
     <img
       style="display:block; min-width:110px; height:30px; object-fit:contain;"
       alt="Portfolio"
