@@ -42,10 +42,10 @@
 [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,nginx,vscode,figma,github,gitlab,git,postman)](https://skillicons.dev)
 
 <table width="100%" style>
-<tr>
-  <img
-        width="410"
-        height="300"
+
+  <tr>
+   <img
+        width="100%"  height="300"
         src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical"
         alt="GitHub Stats"
       />
@@ -54,20 +54,18 @@
 
 <table width="100%" style>
 <tr>
-    <img
-    width="100%"  height="300"
-    src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical"
-    alt="GitHub Stats"
-    />
+<td>
+  <img width="100%"  height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical" alt="Profile Summary">
+</td>
 </tr>
+
 </table>
 
 <!-- <table width="100%" align="center">
   <tr>
     <td align="center" valign="middle">
       <img
-        width="410"
-        height="300"
+        width="100%"
         src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical"
         alt="GitHub Stats"
       />
