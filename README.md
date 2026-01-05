@@ -11,27 +11,26 @@
 ## 🌐 _Connect with me:_
 
 <p style="display:flex; gap:10px; align-items:center; margin:0;">
-  <a href="" style="display:inline-flex;">
-    <img height="28" width="110" alt="LinkedIn"
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="YOUR_LINKEDIN_URL" style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:6px; background:#0A66C2; color:#fff; text-decoration:none; font:600 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="" style="width:18px; height:18px; display:block;" />
+    <span>LinkedIn</span>
+  </a>
+    <a href="https://profile.gogogavin.uk/" style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:6px; background:#1E90FF; color:#fff; text-decoration:none; font:600 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;">
+    <img src="https://api.iconify.design/simple-icons:vercel.svg?color=white" alt="" style="width:18px; height:18px; display:block;" />
+    <span>Portfolio</span>
+  </a>
+  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex; align-items:center; gap:8px; padding:6px 10px; border-radius:6px; background:#D14836; color:#fff; text-decoration:none; font:600 12px/1 system-ui, -apple-system, Segoe UI, Roboto, Arial;">
+    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=white" alt="" style="width:18px; height:18px; display:block;" />
+    <span>Gmail</span>
   </a>
 
-  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex;">
-    <img height="28" width="110" alt="Gmail"
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://profile.gogogavin.uk/" style="display:inline-flex;">
-    <img height="28" width="110" alt="Portfolio"
-      src="https://img.shields.io/badge/-Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 # 💻 Tech Stack
 
 ## Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python)](https://skillicons.dev)
 
 ## Framework & Backend
 
@@ -41,16 +40,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,nginx,vscode,figma,github,gitlab,git,postman)](https://skillicons.dev)
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical"
-        alt="Profile Summary"
-        style="display:block; width:100%; margin:0;"
-      />
-    </td>
-  </tr>
+<table width="100%" style>
+<tr>
+<td>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical" alt="Profile Summary">
+</td>
+</tr>
 </table>
 
 <table width="100%" align="center">
