@@ -16,7 +16,7 @@
       height="28"
       width="110"
       alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-%231572B6?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=18"
     />
   </a>
 
@@ -25,7 +25,7 @@
       height="28"
       width="110"
       alt="Portfolio"
-      src="https://img.shields.io/badge/Portfolio-%2310f?style=for-the-badge&logo=google-chrome&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=18"
     />
   </a>
 
@@ -34,7 +34,7 @@
       height="28"
       width="110"
       alt="Gmail"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=18"
     />
   </a>
 </p>
