@@ -54,7 +54,7 @@
 <img
 width="410"
 height="300"
-src="https://nirzak-streak-stats.vercel.app/?user=cola639&theme=radical"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cola639&theme=radical"
 alt="GitHub Streak"
 />
 </td>
@@ -89,3 +89,24 @@ alt="GitHub Streak"
     </td>
   </tr>
 </table> -->
+
+<!-- # 1) GitHub Readme Stats (stats + languages + repo pin)
+https://github-readme-stats.vercel.app/api?username=cola639&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=cola639&layout=compact&theme=radical
+https://github-readme-stats.vercel.app/api/pin/?username=cola639&repo=gavin-admin&theme=radical
+
+# 2) GitHub Streak Stats
+https://streak-stats.demolab.com?user=cola639&theme=radical
+
+# 3) GitHub Profile Trophy
+https://github-profile-trophy.vercel.app/?username=cola639&theme=radical&no-frame=true&row=1&column=6
+
+# 4) GitHub Profile Summary Cards (multiple card types)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical
+https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cola639&theme=radical
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cola639&theme=radical
+https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cola639&theme=radical
+https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cola639&theme=radical&utcOffset=8
+
+# 5) (Yours) Awesome GitHub Stats also supports theme=radical
+https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical -->
