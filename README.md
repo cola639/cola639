@@ -11,28 +11,19 @@
 ## 🌐 _Connect with me:_
 
 <p style="display:flex; gap:10px; align-items:center; margin:0;">
-  <a href="" style="display:inline-flex; line-height:0; margin-right:8px; ">
-    <img
-      style="display:block; min-width:110px; height:30px; object-fit:contain;"
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=18"
-    />
+  <a href="" style="display:inline-flex;">
+    <img height="28" width="110" alt="LinkedIn"
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-   <a href="" style="display:inline-flex; line-height:0; margin-right:8px; ">
-    <img
-      style="display:block; min-width:110px; height:30px; object-fit:contain;"
-      alt="Gmail"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=18"
-    />
+  <a href="mailto:xiheg1109@gmail.com" style="display:inline-flex;">
+    <img height="28" width="110" alt="Gmail"
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="" style="display:inline-flex; line-height:0;  ">
-    <img
-      style="display:block; min-width:110px; height:30px; object-fit:contain;"
-      alt="Portfolio"
-      src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=18"
-    />
+  <a href="https://profile.gogogavin.uk/" style="display:inline-flex;">
+    <img height="28" width="110" alt="Portfolio"
+      src="https://img.shields.io/badge/-Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -50,12 +41,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,nginx,vscode,figma,github,gitlab,git,postman)](https://skillicons.dev)
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical" alt="Profile Summary">
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical"
+        alt="Profile Summary"
+        style="display:block; width:100%; margin:0;"
+      />
+    </td>
+  </tr>
 </table>
 
 <table width="100%" align="center">
