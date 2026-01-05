@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm a full-stack developer.
 - 🚀 Currently the maintainer of [qdpz](https://github.com/cola639/uniapp-miniprogram-qdpz) .[xlsx-style-fixedver](https://www.npmjs.com/package/xlsx-style-fixedver) .
-- 🤝 I’m looking for guidance on Flutter-Firebase backend integration for
+- 🤝 I’m looking for a job in the Chicago
 - 📍 Location: USA
 
 ## 🌐 _Connect with me:_
