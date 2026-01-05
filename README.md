@@ -44,13 +44,13 @@
 <table width="100%" style>
 <tr>
 <td>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical" alt="Profile Summary">
+  <img width="100%"  height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical" alt="Profile Summary">
 </td>
 </tr>
 
   <tr>
    <img
-        width="100%"
+        width="100%"  height="300"
         src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical"
         alt="GitHub Stats"
       />
