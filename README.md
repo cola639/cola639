@@ -10,9 +10,17 @@
 
 ## 🌐 _Connect with me:_
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white)]()
-[![Profile](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logoColor=white)](https://profile.gogogavin.uk/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiheg1109@gmail.com)
+<p>
+  <a href="">
+    <img height="28" width="110" src="https://img.shields.io/badge/LinkedIn-%231572B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://profile.gogogavin.uk/">
+    <img height="28" width="110" src="https://img.shields.io/badge/Portfolio-%2310f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:xiheg1109@gmail.com">
+    <img height="28" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 # 💻 Tech Stack
 
@@ -31,20 +39,28 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical" alt="Profile Summary">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cola639&theme=radical" alt="Profile Summary">
 </td>
 </tr>
 </table>
 
 <table width="100%" align="center">
-<tr>
-<td>
-    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=cola639&theme=radical" />
-
-</td>
-</tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        width="410"
+        height="300"
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img
+        width="410"
+        height="300"
+        src="https://nirzak-streak-stats.vercel.app/?user=cola639&theme=radical"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
 </table>
-<br>
