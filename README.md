@@ -44,10 +44,20 @@
 <table width="100%" style>
 
   <tr>
+  <td>
    <img
         src="https://awesome-github-stats.azurewebsites.net/user-stats/cola639?cardType=level&theme=radical"
         alt="GitHub Stats"
-      />
+      /></td>
+
+<td align="center" valign="middle">
+<img
+width="410"
+height="300"
+src="https://nirzak-streak-stats.vercel.app/?user=cola639&theme=radical"
+alt="GitHub Streak"
+/>
+</td>
 </tr>
 </table>
 
