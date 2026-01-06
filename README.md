@@ -29,15 +29,15 @@
 
 # 💻 Tech Stack
 
-## Programming Languages
+## 🧑‍💻 Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python)](https://skillicons.dev)
 
-## Framework & Backend
+## 🧩 Framework & Backend
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,tailwindcss,nodejs,expressjs,spring,mysql,aws,linux)](https://skillicons.dev)
 
-## Tools & Software
+## 🛠️ Tools & Software
 
 [![My Skills](https://skillicons.dev/icons?i=jenkins,docker,nginx,vscode,figma,github,gitlab,git,postman)](https://skillicons.dev)
 
